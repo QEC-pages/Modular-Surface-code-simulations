@@ -48,17 +48,18 @@ To reproduce results, we recommend starting with `Simulation.ipynb` to generate 
 If you use this code or find our work useful, please cite:
 
 ```
-@article{your_citation_here,
-  title={Optimized Noise-Resilient Surface Code Teleportation Interfaces},
-  author={Authors},
-  journal={Journal or Conference},
+@article{Shalby2025Optimized,
+  title={Optimized noise-resilient surface code teleportation interfaces},
+  author={Shalby, Mohamed A. and Wang, Renyu and Sedov, Denis and Pryadko, Leonid P.},
+  journal={arXiv preprint arXiv:2503.04968},
   year={2025},
-  eprint={2503.04968},
-  archivePrefix={arXiv},
-  primaryClass={quant-ph}
+  doi={10.48550/arXiv.2503.04968},
+  url={https://arxiv.org/abs/2503.04968}
 }
+
 ```
 
 ---
 
 For any additional information, please don't hesitate to reach out.
+mshal007@ucr.edu
