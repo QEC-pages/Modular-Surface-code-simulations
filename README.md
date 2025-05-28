@@ -28,7 +28,7 @@ The purpose of this repository is to facilitate reproducibility and further expl
   - Visualization and plotting of results
 
 - **Raw Data**  
-  - **`[[Feb13th]] Full Results.json`**: Complete raw data from simulations presented in our paper.
+  - **`DATA.json`**: Complete raw data from simulations presented in our paper.
   - **`thresholds.csv`**: Threshold values derived from the simulation data.
   - **`lambda p=0.00345.csv`**: Specific lambda calculations at physical error rate p=0.00345.
 
