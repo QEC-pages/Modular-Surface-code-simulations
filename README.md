@@ -18,7 +18,7 @@ The purpose of this repository is to facilitate reproducibility and further expl
 
   (Note: Some redundancy is present for clarity and ease of use.)
 
-- **`Simulation.ipynb`**  
+- **`Main Simulation.ipynb`**  
   Jupyter notebook responsible for sampling from the generated circuits and performing decoding using PyMatching.
 
 - **`Analysis and Plotting.ipynb`**  
